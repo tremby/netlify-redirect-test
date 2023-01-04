@@ -1,0 +1,7 @@
+/test1.php x=:x y=:y /test1.php@x=:x&y=:y.html 200
+/test1.php x=:x /test1.php@x=:x.html 200
+/test1.php /test1.php.html 200
+
+/test2.php x=:x y=:y /test2.php@x=:x&y=:y.html 200
+/test2.php x=:x /test2.php@x=:x.html 200
+/test2.php /test2.php.html 200
